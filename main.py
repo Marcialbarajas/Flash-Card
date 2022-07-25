@@ -1,6 +1,8 @@
 from tkinter import *
 import pandas as pd
 import random
+import py2exe
+
 
 BACKGROUND_COLOR = "#B1DDC6"
 
